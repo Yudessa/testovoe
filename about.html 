@@ -1,0 +1,8 @@
+<html>
+ <head>
+  <title>Фото с конем</title>
+ </head>
+ <body bgcolor=lightblue> 
+ <img src="/home/r1/Загрузки/horse.jpg"width="700" height="950">
+ </body>
+</html>
